@@ -1,7 +1,7 @@
 Not _Yet_ Awesome PureScript
 ===
 
-An unofficial list of things that are _not yet_ awesome in PureScript. Please add any other items to this list, so we can be sure to tackle everything necessary to make PureScript _totally_ awesome!
+An unofficial list of things that are _not yet_ awesome in PureScript. Please add any other items to this list, so we can be sure to tackle everything necessary to make PureScript _totally_ awesome! Inspired by [Not-Yet-Awesome Rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust).
 
 ### Tooling
 
