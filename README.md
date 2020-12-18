@@ -24,10 +24,14 @@ There are a few ongoing efforts to reduce code size and improve performance.
 
 Todo - add some links
 
-### Documentation
+### New user experience
 
-Many core libraries could use some additional explanation and examples.
+It can be pretty tough to get started and build that first web app, especially for folks without much FP or Web dev experience. There are also a wide variety of web frameworks to choose from, which can be overwhelming for new users.
 
-### Package management
+### Packages
 
-Currently transitioning to a new [registry](https://github.com/purescript/registry).
+- Currently transitioning to a new [registry](https://github.com/purescript/registry).
+- Many core libraries could use some additional explanation and examples.
+- CI gaps:
+    - No widespread use of [doctest](https://github.com/csicar/purescript-doctest) (or equivalent - see Pyhon's [doctest](https://docs.python.org/3/library/doctest.html)).
+    - No framework for catching performance regressions (e.g. Julia's [PkgBenchmark](https://github.com/JuliaCI/PkgBenchmark.jl)).
